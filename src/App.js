@@ -27,8 +27,8 @@ function App() {
         <div className="componentes">
           <hr></hr>
           <TercerComponente 
-          nombre='Daniel' 
-          apellidos='Mateu Pardo'
+          // nombre='Daniel'
+          // apellidos='Mateu Pardo'
           ficha={ficha_medica}
           />
 

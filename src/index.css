@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#caja{
+  width: 200px;
+  height: 200px;
+  border: 10px solid #fff;
+  background: #a04949;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#929292;
+  font-weight: bold;
+
+}
